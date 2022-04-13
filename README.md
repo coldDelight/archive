@@ -20,3 +20,4 @@
 ## Info
 
 1. **코드너리** https://www.codenary.co.kr/architecture/list
+1. **supabase** https://supabase.com/
